@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9hFsx5bWgo1j/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="100"/>
   <h1>
     Hey there! I'm Shaik Mohammed Ashraf
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xpYzA3M2dhaWFpZ3JsYmw3cmZ2cGlmNHV5ZnJ3Z3o4bGYxN2w5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIqmM5tTjmpOB9mpdb/giphy.gif" width="30px"/>
   </h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/ashrafshaikmohammed/">
