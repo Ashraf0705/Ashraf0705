@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate Full-Stack Developer and AI/ML enthusiast from India, currently pursuing my B.Tech in CSE (AI & DS) at SASTRA DEEMED UNIVERSITY. I thrive on building intelligent, real-world applications that solve complex problems. My focus is on creating AI Agents to make work simpler and more efficient, and I am an expert in leveraging existing AI tools to maximize productivity. I am constantly improving my full-stack capabilities by integrating them with powerful AI.
+I'm a passionate Full-Stack Developer and AI/ML enthusiast from India. I thrive on building intelligent, real-world applications that solve complex problems. My focus is on creating AI Agents to make work simpler and more efficient, and I am an expert in leveraging existing AI tools to maximize productivity. I am constantly improving my full-stack capabilities by integrating them with powerful AI.
 
 - 🔭 I’m currently working on enhancing my skills in **AI Agents** and **Full Stack + AI/ML Applications**.
 - 🌱 I’m currently working on solving real-world problems with **Creative, AI-driven Solutions**.
