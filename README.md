@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 Core Focus
+### 🚀 My Core Focus
 
 <table width="100%">
   <tr>
@@ -34,26 +34,20 @@
       <p align="left">I architect and develop robust, scalable, and user-centric applications by seamlessly integrating powerful back-end logic with intuitive front-end experiences.</p>
     </td>
     <td width="33%" valign="top" align="center">
-      <h3>🌐 Open Source & Web3</h3>
+      <h3>🌐 Open Source</h3>
       <p align="left">I am passionate about contributing to a decentralized future and collaborating on open-source projects that drive social good and technological innovation.</p>
     </td>
   </tr>
 </table>
 
----
-
-### ⚡ What I'm Forging
-
 - 🔭 **Currently:** Enhancing my expertise in **Autonomous AI Agents** and building **Full-Stack + AI** applications.
 - 🌱 **Learning:** Actively solving real-world challenges with creative, **AI-driven solutions**.
-- 👯 **Collaborating:** Seeking to join forces on open-source projects related to **AI for Social Good** or **Web3**.
+- 👯 **Collaborating:** Seeking to join forces on open-source projects related to **AI for Social Good**.
 - 📫 **Reach Me:** The best way to connect is via email: **smdashraf01@gmail.com**.
 
 ---
 
-<details>
-<summary>Click to expand my Tech Arsenal ⚔️</summary>
-<br>
+### ⚔️ My Tech Arsenal
 
 <table>
   <tr>
@@ -111,12 +105,10 @@
   </tr>
 </table>
 
-</details>
+---
 
-<details>
-<summary>Click to view my GitHub Statistics 📊</summary>
-<br>
-  
+### 📊 My GitHub Stats
+
 <p align="center">
   <a href="https://github.com/Ashraf0705">
     <img src="https://github-readme-stats.vercel.app/api?username=Ashraf0705&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Ashraf's GitHub Stats"/>
@@ -133,9 +125,8 @@
   </a>
 </p>
   
-</details>
-
 ---
+
 <p align="center">
   Let's connect and build something amazing together!
 </p>
