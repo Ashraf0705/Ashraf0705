@@ -1,108 +1,85 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="100"/>
+<div align="center">
+
+  <!-- The Stunning Hero Image from Your Portfolio -->
+  <a href="https://s-md-ashraf-portfolio.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Ashraf0705/my-portfolio/main/assets/home-page-portfolio.png" alt="Portfolio Hero Section" />
+  </a>
+
+  <!-- A More Sophisticated Introduction -->
   <h1>
-    Hey there! I'm Shaik Mohammed Ashraf
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Shaik Mohammed Ashraf
   </h1>
+  <h3>
+    Architect of Intelligent Digital Experiences | AI & ML Engineer | Full-Stack Developer
+  </h3>
+
+  <!-- Social & Contact Badges -->
   <div id="badges">
-    <a href="https://www.linkedin.com/in/ashrafshaikmohammed/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://www.linkedin.com/in/ashrafshaikmohammed/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:smdashraf01@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://github.com/Ashraf0705" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
   </div>
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🏆 Featured Project: 3D Animated Portfolio
 
-I'm a passionate Full-Stack Developer and AI/ML enthusiast from India. I thrive on building intelligent, real-world applications that solve complex problems. My focus is on creating AI Agents to make work simpler and more efficient, and I am an expert in leveraging existing AI tools to maximize productivity. I am constantly improving my full-stack capabilities by integrating them with powerful AI.
+The image above is from my flagship project, a fully interactive portfolio built to showcase the intersection of high-performance code and artistic design. It's not just a website; it's a statement.
 
-- 🔭 I’m currently working on enhancing my skills in **AI Agents** and **Full Stack + AI/ML Applications**.
-- 🌱 I’m currently working on solving real-world problems with **Creative, AI-driven Solutions**.
-- 👯 I’m looking to collaborate on open-source projects related to **AI for social good** or **Web3**.
-- 📫 How to reach me: [smdashraf01@gmail.com](mailto:smdashraf01@gmail.com)
+[**🚀 Explore the Live Experience 🚀**](https://s-md-ashraf-portfolio.vercel.app/)
+    •    
+[**🧠 View the Architecture & Source Code**](https://github.com/Ashraf0705/my-portfolio)
 
 ---
 
-### 🛠️ My Tech Stack
+### 🧠 My Philosophy & Approach
 
-Here are some of the technologies I've been working with recently:
+I believe the future of software lies in the seamless integration of Artificial Intelligence and robust, user-centric design. My work is driven by a mission to not just build applications, but to engineer intelligent systems that are both powerful and intuitive.
 
-**Frontend Development:**
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> </a>
-  <a href="https://angular.io" target="_blank"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular"/> </a> 
-</p>
+- 🤖 **AI-First Mindset:** My primary focus is on developing **AI Agents** and leveraging advanced ML models to create tools that automate complexity and enhance human capability.
+- 🛠️ **Full-Stack Craftsmanship:** I architect and build complete, end-to-end applications, ensuring that every layer—from the database to the UI—is performant, scalable, and secure.
+- 💡 **Creative Problem-Solving:** I thrive on tackling real-world challenges with innovative, AI-driven solutions that push the boundaries of what's possible.
 
-**Backend Development:**
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> </a> 
-  <a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"/> </a>
-</p>
+---
 
-**Data, ML & AI:**
-<p align="left"> 
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/> </a>
-  <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/> </a>
-  <a href="https://matplotlib.org/" target="_blank"> <img src="https://img.shields.io/badge/Matplotlib-3151A2?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/> </a>
-  <a href="https://keras.io/" target="_blank"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="keras"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> </a>
-</p>
+### 💻 Core Technology Arsenal
 
-**Databases:**
-<p align="left"> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> </a> 
-</p>
+I utilize a modern, versatile toolkit to bring my ideas to life. While I'm proficient across the stack, these are my core areas of expertise:
 
-**AI Tools & Prompt Engineering:**
-<p align="left"> 
-  <a href="https://openai.com/" target="_blank"> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai"/> </a>
-  <a href="https://huggingface.co/" target="_blank"> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="hugging-face"/> </a>
-  <a href="https://www.langchain.com/" target="_blank"> <img src="https://img.shields.io/badge/LangChain-020100?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/> </a>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-blueviolet?style=for-the-badge" alt="Prompt Engineering"/>
-</p>
-
-**DevOps & Tools:**
-<p align="left"> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a> 
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> </a> 
-  <a href="https://vercel.com/" target="_blank"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/> </a> 
-  <a href="https://render.com/" target="_blank"> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="render"/> </a>
-  <a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/> </a>
-  <a href="https://www.thunderclient.com/" target="_blank"> <img src="https://img.shields.io/badge/Thunder_Client-2563EB?style=for-the-badge&logo=thunder-client&logoColor=white" alt="thunder-client"/> </a>
-</p>
+| Category               | Key Technologies                                      |
+| ---------------------- | ----------------------------------------------------- |
+| **AI & Machine Learning** | `Python`, `Keras`, `Scikit-learn`, `Pandas`, `LangChain` |
+| **Backend Development**  | `Node.js`, `Express.js`, `Django`, `PostgreSQL`, `MySQL` |
+| **Frontend Development** | `React`, `Next.js`, `JavaScript/TypeScript`, `HTML5/CSS3` |
+| **3D & Animation**       | `React Three Fiber`, `GSAP`                           |
+| **DevOps & Platforms**   | `Docker`, `Git`, `Vercel`, `Render`                   |
 
 ---
 
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Ashraf0705">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ashraf0705&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Ashraf0705">
-    <!-- IMPORTANT: This is the new, working link for streak stats -->
-    <img src="https://streak-stats.demolab.com/?user=Ashraf0705&theme=dracula&hide_border=true"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Ashraf0705">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf0705&layout=compact&langs_count=8&theme=dracula"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashraf0705&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=Ashraf0705&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf0705&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" />
 </p>
 
 ---
+
+### 📫 Let's Connect
+
+I'm always open to collaborating on innovative projects, especially in the realms of AI for social good or Web3. If you have an idea, an opportunity, or just want to talk tech, my inbox is always open.
+
+<p align="center">
+  **smdashraf01@gmail.com**
+</p>
