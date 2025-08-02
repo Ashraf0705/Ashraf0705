@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashraf0705/my-portfolio/main/assets/home-page-portfolio.png" alt="Shaik Mohammed Ashraf - AI & ML Engineer, Full-Stack Developer"/>
+  <img src="https://raw.githubusercontent.com/Ashraf0705/my-portfolio/main/assets/HOME_PAGE.png" alt="Shaik Mohammed Ashraf - AI & ML Engineer, Full-Stack Developer"/>
 </p>
 
 <div align="center">
