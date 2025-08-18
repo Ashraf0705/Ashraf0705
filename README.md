@@ -129,5 +129,5 @@
 </p>
 
 <p align="center">
-  Let's connect and build something amazing together!
+  😊Let's connect and build something amazing together😊!
 </p>
