@@ -114,17 +114,19 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-
-[![Ashraf0705's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashraf0705&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-
-[![Ashraf0705's Streak](https://streak-stats.demolab.com?user=Ashraf0705&theme=radical)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashraf0705&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Ashraf's GitHub Stats" />
+</div>
 
 <br/>
 
-[![Ashraf0705's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf0705&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ashraf0705&theme=radical&hide_border=false" alt="Ashraf's GitHub Streak" />
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf0705&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Ashraf's Top Languages" />
 </div>
 
 ---
