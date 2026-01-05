@@ -114,20 +114,17 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Ashraf0705">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ashraf0705&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Ashraf's GitHub Stats"/>
-  </a>
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=Ashraf0705&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
+
 <p align="center">
-  <a href="https://github.com/Ashraf0705">
-    <img src="https://streak-stats.demolab.com/?user=Ashraf0705&theme=dracula&hide_border=true" alt="Ashraf's GitHub Streak"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Ashraf0705&theme=radical" alt="GitHub Streak"/>
 </p>
+
 <p align="center">
-  <a href="https://github.com/Ashraf0705">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf0705&layout=compact&langs_count=8&theme=dracula" alt="Ashraf's Top Languages"/>
-  </a>
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Ashraf0705&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+
 
 <p align="center">
   😊Let's connect and build something amazing together😊!
