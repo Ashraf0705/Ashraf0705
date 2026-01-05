@@ -115,15 +115,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ashraf0705&show_icons=true&theme=radical" alt="Ashraf0705's Stats" />
+[![Ashraf0705's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashraf0705&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Ashraf0705&theme=radical" alt="Ashraf0705's Streak" />
+[![Ashraf0705's Streak](https://streak-stats.demolab.com?user=Ashraf0705&theme=radical)](https://git.io/streak-stats)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf0705&layout=compact&theme=radical" alt="Ashraf0705's Top Langs" />
+[![Ashraf0705's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf0705&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
