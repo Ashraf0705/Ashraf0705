@@ -44,7 +44,8 @@
   </tr>
 </table>
 
-- 🔭 **Currently:** Advancing my skills in **Autonomous AI Agents** and building **AI-driven full-stack apps** - 🌱 **Learning:** Next-gen LLM pipelines, vector search, and multi-agent frameworks  
+- 🔭 **Currently:** Advancing my skills in **Autonomous AI Agents** and building **AI-driven full-stack apps**
+- 🌱 **Learning:** Next-gen LLM pipelines, vector search, and multi-agent frameworks  
 - 👯 **Collaborating:** Projects on **AI for Social Good**, open-source ML tools  
 - 📫 **Reach Me:** **smdashraf01@gmail.com**
 
@@ -112,20 +113,19 @@
 
 ## 📊 My GitHub Stats
 
-### ⭐ Overall Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashraf0705&show_icons=true&theme=radical&count_private=true" alt="Ashraf0705's GitHub Stats"/>
-</p>
+<div align="center">
 
-### 🔥 Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashraf0705&theme=radical" alt="Ashraf0705's Streak"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Ashraf0705&show_icons=true&theme=radical" alt="Ashraf0705's Stats" />
 
-### 📘 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf0705&layout=compact&theme=radical" alt="Ashraf0705's Top Languages"/>
-</p>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Ashraf0705&theme=radical" alt="Ashraf0705's Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf0705&layout=compact&theme=radical" alt="Ashraf0705's Top Langs" />
+
+</div>
 
 ---
 
