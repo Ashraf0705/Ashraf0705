@@ -111,26 +111,119 @@
 
 ---
 
-## 📊 My GitHub Stats
+## 🏆 Achievements & Highlights
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashraf0705&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Ashraf's GitHub Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ashraf0705&theme=radical&hide_border=false" alt="Ashraf's GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf0705&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Ashraf's Top Languages" />
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Projects-50+-brightgreen?style=for-the-badge" />
+      <br/><strong>Completed Projects</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Experience-2+_Years-blue?style=for-the-badge" />
+      <br/><strong>Development Experience</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Focus-AI_&_ML-red?style=for-the-badge" />
+      <br/><strong>Specialization</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Open_Source-Contributor-orange?style=for-the-badge" />
+      <br/><strong>Community Involvement</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">
-  😊 Let's connect and build something amazing together! 😊
+## 📈 GitHub Activity
+
+<div align="center">
+  
+  <a href="https://github.com/Ashraf0705">
+    <img src="https://img.shields.io/github/followers/Ashraf0705?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  
+  <a href="https://github.com/Ashraf0705">
+    <img src="https://img.shields.io/github/stars/Ashraf0705?label=Stars&style=social" alt="GitHub Stars" />
+  </a>
+  
+</div>
+
+<br/>
+
+### 🔥 Most Used Languages
+**Python** • **JavaScript** • **TypeScript** • **Java** • **HTML/CSS**
+
+### 💡 Current Focus Areas
+- 🤖 Building Autonomous AI Agents with LangChain & RAG
+- 🚀 Full-Stack Applications with React, Node.js, and Django
+- 📊 Machine Learning Model Development & Deployment
+- 🔧 DevOps & Cloud Infrastructure Automation
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 AI Agent Projects</h3>
+      <ul>
+        <li>Multi-agent AI systems</li>
+        <li>LLM-powered automation tools</li>
+        <li>Intelligent chatbots & assistants</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>💻 Full-Stack Applications</h3>
+      <ul>
+        <li>React + Node.js web apps</li>
+        <li>Django REST APIs</li>
+        <li>Real-time collaborative tools</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📊 ML & Data Science</h3>
+      <ul>
+        <li>Predictive models & analytics</li>
+        <li>Computer vision projects</li>
+        <li>Data visualization dashboards</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🔧 DevOps & Automation</h3>
+      <ul>
+        <li>CI/CD pipelines</li>
+        <li>Docker containerization</li>
+        <li>Cloud deployment solutions</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  
+### 📫 Let's Connect!
+  
+<p>I'm always open to interesting conversations, collaboration opportunities, and innovative projects.</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/ashrafshaikmohammed/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://s-md-ashraf-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:smdashraf01@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+<p><i>⭐️ From <a href="https://github.com/Ashraf0705">Ashraf0705</a> - Let's build something amazing together! ⭐️</i></p>
+
+</div>
