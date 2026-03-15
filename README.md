@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://s-md-ashraf-portfolio.vercel.app/?utm_source=github&utm_medium=profile" target="_blank">
-Visit My Portfolio
 </a>
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
