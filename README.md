@@ -12,16 +12,19 @@
 </p>
 
 <div align="center" id="badges">
+
   <a href="https://www.linkedin.com/in/ashrafshaikmohammed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://s-md-ashraf-portfolio.vercel.app/?utm_source=github&utm_medium=profile" target="_blank">
-</a>
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+
   <a href="mailto:smdashraf01@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
 </div>
 
 ---
